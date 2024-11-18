@@ -2,10 +2,7 @@ h1 {
   color: red;
 }
 
-h2 {
-  color: aqua;
-}
-
 p {
-  font-size: 14px;
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
 }
